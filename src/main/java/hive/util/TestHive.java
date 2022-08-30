@@ -16,7 +16,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
 /**
- * Hive
+ *  java jdbc操作hive
  */
 public class TestHive {
     public static void main(String[] args) throws Exception {
