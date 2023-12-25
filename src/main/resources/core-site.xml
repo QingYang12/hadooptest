@@ -29,9 +29,9 @@
   </property>
   <property>
 
-    <name>fs.hdfs.impl</name>
+    <name>fs.hadoop.hdfs.impl</name>
 
-    <value>org.apache.hadoop.hdfs.DistributedFileSystem</value>
+    <value>org.apache.hadoop.hadoop.hdfs.DistributedFileSystem</value>
 
     <description>The FileSystem for hdfs: uris.</description>
 

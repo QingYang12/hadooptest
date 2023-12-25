@@ -1,4 +1,4 @@
-package hdfs.crud;
+package hadoop.hdfs.crud;
 
 /**
  * hdfs  HTTP调用方法

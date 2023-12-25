@@ -1,4 +1,4 @@
-package hive.util;
+package hadoop.hive.util;
 
 
 

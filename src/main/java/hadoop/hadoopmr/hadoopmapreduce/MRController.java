@@ -1,4 +1,4 @@
-package hadoopmr.hadoopmapreduce;
+package hadoop.hadoopmr.hadoopmapreduce;
 
 /**
  * hadoop           HTTP调用方法

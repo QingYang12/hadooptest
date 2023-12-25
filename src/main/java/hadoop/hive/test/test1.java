@@ -1,4 +1,4 @@
-package hive.test;
+package hadoop.hive.test;
 
 /**
  * hive 测试类

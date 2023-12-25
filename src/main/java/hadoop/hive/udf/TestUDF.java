@@ -1,4 +1,4 @@
-package hive.udf;
+package hadoop.hive.udf;
 
 public class TestUDF {
     private String str = new String();

@@ -1,4 +1,4 @@
-package hive.crud;
+package hadoop.hive.crud;
 
 /**
  * hive      HTTP调用方法

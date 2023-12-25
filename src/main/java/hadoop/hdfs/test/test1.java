@@ -1,7 +1,7 @@
-package hadoopmr.test;
+package hadoop.hdfs.test;
 
 /**
- * hadoop 测试类
+ * hdfs 测试类
  */
 public class test1 {
     public static void main(String[] args) {
